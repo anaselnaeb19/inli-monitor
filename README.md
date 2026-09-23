@@ -43,14 +43,28 @@ un PC allume.
    git push -u origin main
    ```
 
-### 3. Ajouter les secrets GitHub
+### 3. (Optionnel) Cle API pour le temps de trajet vers Massy-Palaiseau
+
+Chaque notification peut inclure le temps de trajet en transport (marche + RER + bus) entre l'annonce
+et Massy-Palaiseau (2 Rue du Chemin des Femmes). Ca utilise l'API officielle et gratuite d'Ile-de-France
+Mobilites :
+
+1. Creez un compte gratuit sur [prim.iledefrance-mobilites.fr](https://prim.iledefrance-mobilites.fr/).
+2. Abonnez-vous a l'API **"Ile-de-France Mobilités Calculator - Generic access (v2)"** depuis le catalogue.
+3. Recuperez votre `apiKey` dans votre espace developpeur.
+
+Si vous ne configurez pas cette cle, le monitoring fonctionne quand meme normalement : les notifications
+sont juste envoyees sans la ligne de trajet.
+
+### 4. Ajouter les secrets GitHub
 
 Dans le depot GitHub : **Settings > Secrets and variables > Actions > New repository secret**, ajoutez :
 
 - `TELEGRAM_BOT_TOKEN` = le token recupere aupres de BotFather
 - `TELEGRAM_CHAT_ID` = votre chat_id
+- `PRIM_API_KEY` = (optionnel) la cle recuperee sur prim.iledefrance-mobilites.fr
 
-### 4. Verifier que les Actions sont actives
+### 5. Verifier que les Actions sont actives
 
 Onglet **Actions** du depot GitHub > si demande, cliquez sur "I understand my workflows, go ahead and
 enable them". Le workflow `Surveillance inli.fr` tourne ensuite automatiquement toutes les heures
@@ -64,6 +78,18 @@ Vous pouvez aussi le lancer manuellement pour tester tout de suite : onglet **Ac
 La liste des departements est dans `monitor.py`, dictionnaire `DEPARTMENTS` (code -> nom, slug d'URL).
 Ajoutez/retirez une ligne pour changer la zone couverte. Pour retrouver le slug exact d'un departement,
 ouvrez sa page de recherche sur inli.fr et copiez la fin de l'URL (apres `/locations/offres/`).
+
+## Modifier le prix maximum
+
+Constante `MAX_PRICE_EUR` en haut de `monitor.py` (1000 € par defaut). Aucune notification n'est envoyee
+au-dessus de ce prix, mais l'annonce reste enregistree normalement.
+
+## Modifier la destination du calcul de trajet
+
+Constantes `DEST_LON` / `DEST_LAT` en haut de `monitor.py` (actuellement Massy-Palaiseau, 2 Rue du Chemin
+des Femmes). Pour changer de destination, geocodez la nouvelle adresse via
+`https://api-adresse.data.gouv.fr/search/?q=votre+adresse` et copiez les coordonnees `coordinates`
+(`[longitude, latitude]`) du resultat.
 
 ## Tester en local (optionnel)
 
