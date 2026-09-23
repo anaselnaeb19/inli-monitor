@@ -1,0 +1,42 @@
+name: Surveillance inli.fr
+
+on:
+  schedule:
+    - cron: "5 * * * *"   # toutes les heures a HH:05
+  workflow_dispatch: {}    # permet de lancer manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: inli-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "inli-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "Mise a jour de l'etat des annonces"
+          git push
