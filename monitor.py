@@ -170,7 +170,7 @@ def summarize_journey(journey: dict) -> str:
             continue
         if section.get("type") == "street_network" and section.get("mode") == "walking":
             steps.append(f"🚶 {duration_min} min")
-        elif section.get("type") == "public_transit":
+        elif section.get("type") == "public_transport":
             info = section.get("display_informations", {})
             label = f"{info.get('commercial_mode', 'Transport')} {info.get('code', '')}".strip()
             steps.append(f"🚉 {label} ({duration_min} min)")
