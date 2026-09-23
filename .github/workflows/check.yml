@@ -37,6 +37,20 @@ jobs:
         run: |
           git config user.name "inli-monitor-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add state.json
-          git diff --cached --quiet || git commit -m "Mise a jour de l'etat des annonces"
-          git push
+          for i in 1 2 3 4 5; do
+            git add state.json
+            if git diff --cached --quiet; then
+              echo "Rien a committer."
+              exit 0
+            fi
+            git commit -m "Mise a jour de l'etat des annonces"
+            if git push; then
+              exit 0
+            fi
+            echo "Push refuse (tentative $i), synchronisation avec origin/main..."
+            git fetch origin main
+            git reset --soft origin/main
+            sleep 3
+          done
+          echo "Echec du push apres plusieurs tentatives."
+          exit 1
