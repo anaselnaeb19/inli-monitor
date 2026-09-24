@@ -1266,5 +1266,48 @@
       "url": "https://www.inli.fr/location-appartement-villiers-sur-marne-94350/x3F-G898-1111L"
     }
   },
-  "95": {}
+  "95": {
+    "441-20003-3010": {
+      "city": "Sarcelles",
+      "price": "1 257 €",
+      "rooms": "3 pièces",
+      "surface": "59.1 m²",
+      "url": "https://www.inli.fr/location-appartement-sarcelles-95200/441-20003-3010"
+    },
+    "441-4164-6818": {
+      "city": "Sannois",
+      "price": "958 €",
+      "rooms": "2 pièces",
+      "surface": "53.15 m²",
+      "url": "https://www.inli.fr/location-appartement-sannois-95110/441-4164-6818"
+    },
+    "441-4164-6844": {
+      "city": "Sannois",
+      "price": "1 078 €",
+      "rooms": "3 pièces",
+      "surface": "62.6 m²",
+      "url": "https://www.inli.fr/location-appartement-sannois-95110/441-4164-6844"
+    },
+    "PRV-211227": {
+      "city": "Argenteuil",
+      "price": "939 €",
+      "rooms": "3 pièces",
+      "surface": "52 m²",
+      "url": "https://www.inli.fr/location-appartement-argenteuil-95100/PRV-211227"
+    },
+    "PRV-218991": {
+      "city": "Deuil La Barre",
+      "price": "1 529 €",
+      "rooms": "5 pièces",
+      "surface": "101 m²",
+      "url": "https://www.inli.fr/location-appartement-deuil-la-barre-95170/PRV-218991"
+    },
+    "x3F-G708-1126L": {
+      "city": "Soisy Sous Montmorency",
+      "price": "1 206 €",
+      "rooms": "3 pièces",
+      "surface": "71.9 m²",
+      "url": "https://www.inli.fr/location-appartement-soisy-sous-montmorency-95230/x3F-G708-1126L"
+    }
+  }
 }
