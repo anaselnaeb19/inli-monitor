@@ -13,34 +13,6 @@
       "rooms": "4 pièces",
       "surface": "84 m²",
       "url": "https://www.inli.fr/location-appartement-paris-75018/PRV-252252"
-    },
-    "PRV-341488": {
-      "city": "Paris 13ème",
-      "price": "1 071 €",
-      "rooms": "2 pièces",
-      "surface": "44.2 m²",
-      "url": "https://www.inli.fr/location-appartement-paris-75013/PRV-341488"
-    },
-    "PRV-341518": {
-      "city": "Paris 15ème",
-      "price": "600 €",
-      "rooms": "Studio",
-      "surface": "14.5 m²",
-      "url": "https://www.inli.fr/location-chambre-paris-75015/PRV-341518"
-    },
-    "PRV-381240": {
-      "city": "Paris 18ème",
-      "price": "816 €",
-      "rooms": "Studio",
-      "surface": "32.85 m²",
-      "url": "https://www.inli.fr/location-appartement-paris-75018/PRV-381240"
-    },
-    "PRV-381242": {
-      "city": "Paris 18ème",
-      "price": "876 €",
-      "rooms": "Studio",
-      "surface": "23.6 m²",
-      "url": "https://www.inli.fr/location-appartement-paris-75018/PRV-381242"
     }
   },
   "77": {
@@ -186,6 +158,34 @@
       "surface": "68 m²",
       "url": "https://www.inli.fr/location-appartement-chatou-78400/PRV-279155"
     },
+    "PRV-302789": {
+      "city": "Guyancourt",
+      "price": "1 004 €",
+      "rooms": "3 pièces",
+      "surface": "68.79 m²",
+      "url": "https://www.inli.fr/location-appartement-guyancourt-78280/PRV-302789"
+    },
+    "PRV-318699": {
+      "city": "Croissy Sur Seine",
+      "price": "1 224 €",
+      "rooms": "2 pièces",
+      "surface": "53.6 m²",
+      "url": "https://www.inli.fr/location-appartement-croissy-sur-seine-78290/PRV-318699"
+    },
+    "PRV-327557": {
+      "city": "Sartrouville",
+      "price": "1 315 €",
+      "rooms": "5 pièces",
+      "surface": "84 m²",
+      "url": "https://www.inli.fr/location-appartement-sartrouville-78500/PRV-327557"
+    },
+    "PRV-327574": {
+      "city": "Sartrouville",
+      "price": "1 413 €",
+      "rooms": "4 pièces",
+      "surface": "71 m²",
+      "url": "https://www.inli.fr/location-appartement-sartrouville-78500/PRV-327574"
+    },
     "PRV-334466": {
       "city": "Houilles",
       "price": "1 226 €",
@@ -200,12 +200,12 @@
       "surface": "69 m²",
       "url": "https://www.inli.fr/location-appartement-houilles-78800/PRV-334469"
     },
-    "PRV-337722": {
+    "PRV-337720": {
       "city": "Chatou",
-      "price": "1 114 €",
-      "rooms": "2 pièces",
-      "surface": "57.8 m²",
-      "url": "https://www.inli.fr/location-appartement-chatou-78400/PRV-337722"
+      "price": "1 358 €",
+      "rooms": "4 pièces",
+      "surface": "87 m²",
+      "url": "https://www.inli.fr/location-appartement-chatou-78400/PRV-337720"
     },
     "PRV-340916": {
       "city": "Viroflay",
@@ -242,12 +242,12 @@
       "surface": "64.85 m²",
       "url": "https://www.inli.fr/location-appartement-chatou-78400/PRV-386844"
     },
-    "PRV-386848": {
+    "PRV-386845": {
       "city": "Chatou",
-      "price": "1 114 €",
+      "price": "1 156 €",
       "rooms": "2 pièces",
-      "surface": "41.82 m²",
-      "url": "https://www.inli.fr/location-appartement-chatou-78400/PRV-386848"
+      "surface": "44.52 m²",
+      "url": "https://www.inli.fr/location-appartement-chatou-78400/PRV-386845"
     },
     "x3F-7801L-1115": {
       "city": "Maurepas",
@@ -351,6 +351,13 @@
       "surface": "84 m²",
       "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/441-4243-8285"
     },
+    "441-4243-8321": {
+      "city": "Le Plessis Robinson",
+      "price": "1 602 €",
+      "rooms": "4 pièces",
+      "surface": "84 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/441-4243-8321"
+    },
     "441-4243-8325": {
       "city": "Le Plessis Robinson",
       "price": "1 509 €",
@@ -414,6 +421,13 @@
       "surface": "80 m²",
       "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-054172"
     },
+    "PRV-054200": {
+      "city": "Le Plessis Robinson",
+      "price": "1 407 €",
+      "rooms": "3 pièces",
+      "surface": "65 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-054200"
+    },
     "PRV-211925": {
       "city": "Bourg La Reine",
       "price": "1 521 €",
@@ -427,13 +441,6 @@
       "rooms": "5 pièces",
       "surface": "77 m²",
       "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-212981"
-    },
-    "PRV-216501": {
-      "city": "Le Plessis Robinson",
-      "price": "965 €",
-      "rooms": "Studio",
-      "surface": "38 m²",
-      "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-216501"
     },
     "PRV-242268": {
       "city": "Bagneux",
@@ -519,6 +526,13 @@
       "surface": "60 m²",
       "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-277690"
     },
+    "PRV-309813": {
+      "city": "Rueil Malmaison",
+      "price": "1 196 €",
+      "rooms": "2 pièces",
+      "surface": "50.99 m²",
+      "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/PRV-309813"
+    },
     "PRV-309883": {
       "city": "Rueil Malmaison",
       "price": "1 541 €",
@@ -532,6 +546,13 @@
       "rooms": "5 pièces",
       "surface": "93 m²",
       "url": "https://www.inli.fr/location-appartement-levallois-perret-92300/PRV-324380"
+    },
+    "PRV-324412": {
+      "city": "Levallois Perret",
+      "price": "2 460 €",
+      "rooms": "5 pièces",
+      "surface": "93 m²",
+      "url": "https://www.inli.fr/location-appartement-levallois-perret-92300/PRV-324412"
     },
     "PRV-327666": {
       "city": "Clichy",
@@ -560,6 +581,13 @@
       "rooms": "3 pièces",
       "surface": "71.5 m²",
       "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/PRV-332343"
+    },
+    "PRV-332355": {
+      "city": "Rueil Malmaison",
+      "price": "1 633 €",
+      "rooms": "3 pièces",
+      "surface": "68 m²",
+      "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/PRV-332355"
     },
     "PRV-332611": {
       "city": "Rueil Malmaison",
@@ -638,6 +666,13 @@
       "surface": "97.74 m²",
       "url": "https://www.inli.fr/location-appartement-colombes-92700/PRV-384980"
     },
+    "PRV-386080": {
+      "city": "Clichy",
+      "price": "2 565 €",
+      "rooms": "5 pièces",
+      "surface": "107.02 m²",
+      "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-386080"
+    },
     "PRV-386083": {
       "city": "Clichy",
       "price": "2 494 €",
@@ -647,12 +682,12 @@
     }
   },
   "93": {
-    "PRV-210142": {
-      "city": "Epinay Sur Seine",
-      "price": "990 €",
-      "rooms": "4 pièces",
-      "surface": "63 m²",
-      "url": "https://www.inli.fr/location-appartement-epinay-sur-seine-93800/PRV-210142"
+    "PRV-242031": {
+      "city": "Aubervilliers",
+      "price": "859 €",
+      "rooms": "2 pièces",
+      "surface": "39 m²",
+      "url": "https://www.inli.fr/location-appartement-aubervilliers-93300/PRV-242031"
     },
     "PRV-253900": {
       "city": "St Denis",
@@ -689,13 +724,6 @@
       "surface": "77 m²",
       "url": "https://www.inli.fr/location-appartement-pantin-93500/PRV-313239"
     },
-    "PRV-326547": {
-      "city": "Pantin",
-      "price": "574 €",
-      "rooms": "Studio",
-      "surface": "30 m²",
-      "url": "https://www.inli.fr/location-appartement-pantin-93500/PRV-326547"
-    },
     "PRV-341393": {
       "city": "Rosny Sous Bois",
       "price": "1 355 €",
@@ -709,13 +737,6 @@
       "rooms": "4 pièces",
       "surface": "83.6 m²",
       "url": "https://www.inli.fr/location-appartement-bagnolet-93170/PRV-342017"
-    },
-    "PRV-342314": {
-      "city": "Rosny Sous Bois",
-      "price": "889 €",
-      "rooms": "2 pièces",
-      "surface": "45.83 m²",
-      "url": "https://www.inli.fr/location-appartement-rosny-sous-bois-93110/PRV-342314"
     },
     "PRV-343243": {
       "city": "Gagny",
@@ -766,13 +787,6 @@
       "surface": "83.9 m²",
       "url": "https://www.inli.fr/location-appartement-gagny-93220/PRV-348852"
     },
-    "PRV-349795": {
-      "city": "Livry Gargan",
-      "price": "807 €",
-      "rooms": "2 pièces",
-      "surface": "40.49 m²",
-      "url": "https://www.inli.fr/location-appartement-livry-gargan-93190/PRV-349795"
-    },
     "PRV-349810": {
       "city": "Livry Gargan",
       "price": "1 109 €",
@@ -780,26 +794,40 @@
       "surface": "58.6 m²",
       "url": "https://www.inli.fr/location-appartement-livry-gargan-93190/PRV-349810"
     },
-    "PRV-351441": {
+    "PRV-351780": {
+      "city": "Villepinte",
+      "price": "774 €",
+      "rooms": "2 pièces",
+      "surface": "42.31 m²",
+      "url": "https://www.inli.fr/location-appartement-villepinte-93420/PRV-351780"
+    },
+    "PRV-356379": {
+      "city": "Bondy",
+      "price": "533 €",
+      "rooms": "Studio",
+      "surface": "26.6 m²",
+      "url": "https://www.inli.fr/location-appartement-bondy-93140/PRV-356379"
+    },
+    "PRV-357668": {
       "city": "Drancy",
-      "price": "1 014 €",
-      "rooms": "3 pièces",
-      "surface": "67 m²",
-      "url": "https://www.inli.fr/location-appartement-drancy-93700/PRV-351441"
-    },
-    "PRV-352113": {
-      "city": "Stains",
-      "price": "1 131 €",
-      "rooms": "3 pièces",
-      "surface": "65.1 m²",
-      "url": "https://www.inli.fr/location-appartement-stains-93240/PRV-352113"
-    },
-    "PRV-385484": {
-      "city": "Le Blanc Mesnil",
-      "price": "1 417 €",
+      "price": "1 442 €",
       "rooms": "4 pièces",
-      "surface": "79.67 m²",
-      "url": "https://www.inli.fr/location-appartement-le-blanc-mesnil-93150/PRV-385484"
+      "surface": "89.5 m²",
+      "url": "https://www.inli.fr/location-appartement-drancy-93700/PRV-357668"
+    },
+    "PRV-385488": {
+      "city": "Le Blanc Mesnil",
+      "price": "1 447 €",
+      "rooms": "4 pièces",
+      "surface": "87.19 m²",
+      "url": "https://www.inli.fr/location-appartement-le-blanc-mesnil-93150/PRV-385488"
+    },
+    "PRV-385499": {
+      "city": "Le Blanc Mesnil",
+      "price": "1 472 €",
+      "rooms": "4 pièces",
+      "surface": "87.19 m²",
+      "url": "https://www.inli.fr/location-appartement-le-blanc-mesnil-93150/PRV-385499"
     },
     "x3F-0718-1102L": {
       "city": "St Ouen Sur Seine",
@@ -850,6 +878,13 @@
       "surface": "62.41 m²",
       "url": "https://www.inli.fr/location-appartement-aubervilliers-93300/x3F-0918-4123L"
     },
+    "x3F-0918-4131L": {
+      "city": "Aubervilliers",
+      "price": "1 163 €",
+      "rooms": "3 pièces",
+      "surface": "69.63 m²",
+      "url": "https://www.inli.fr/location-appartement-aubervilliers-93300/x3F-0918-4131L"
+    },
     "x3F-4074-1124L": {
       "city": "Aulnay Sous Bois",
       "price": "1 250 €",
@@ -884,16 +919,16 @@
       "rooms": "4 pièces",
       "surface": "90.2 m²",
       "url": "https://www.inli.fr/location-appartement-la-courneuve-93120/x3F-7332-4262L"
+    },
+    "x3F-7746-1124L": {
+      "city": "Villepinte",
+      "price": "1 053 €",
+      "rooms": "3 pièces",
+      "surface": "63 m²",
+      "url": "https://www.inli.fr/location-appartement-villepinte-93420/x3F-7746-1124L"
     }
   },
   "94": {
-    "441-20001-1007": {
-      "city": "Le Perreux Sur Marne",
-      "price": "910 €",
-      "rooms": "Studio",
-      "surface": "35.5 m²",
-      "url": "https://www.inli.fr/location-appartement-le-perreux-sur-marne-94170/441-20001-1007"
-    },
     "441-20021-4007": {
       "city": "Villejuif",
       "price": "1 713 €",
@@ -908,33 +943,12 @@
       "surface": "89.4 m²",
       "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/441-20062-5001"
     },
-    "441-4047-1712": {
-      "city": "Cachan",
-      "price": "989 €",
-      "rooms": "3 pièces",
-      "surface": "50 m²",
-      "url": "https://www.inli.fr/location-appartement-cachan-94230/441-4047-1712"
-    },
-    "441-4073-4024": {
-      "city": "Villejuif",
-      "price": "1 031 €",
-      "rooms": "3 pièces",
-      "surface": "51 m²",
-      "url": "https://www.inli.fr/location-appartement-villejuif-94800/441-4073-4024"
-    },
     "441-4136-7173": {
       "city": "Creteil",
       "price": "1 083 €",
       "rooms": "3 pièces",
       "surface": "52 m²",
       "url": "https://www.inli.fr/location-appartement-creteil-94000/441-4136-7173"
-    },
-    "654-20081-10006": {
-      "city": "Villejuif",
-      "price": "1 362 €",
-      "rooms": "3 pièces",
-      "surface": "69.7 m²",
-      "url": "https://www.inli.fr/location-appartement-villejuif-94800/654-20081-10006"
     },
     "654-20083-1005": {
       "city": "Ivry Sur Seine",
@@ -1048,12 +1062,12 @@
       "surface": "72 m²",
       "url": "https://www.inli.fr/location-appartement-l-hay-les-roses-94240/PRV-063655"
     },
-    "PRV-065914": {
-      "city": "Fresnes",
-      "price": "857 €",
-      "rooms": "2 pièces",
-      "surface": "42 m²",
-      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-065914"
+    "PRV-064687": {
+      "city": "Le Perreux Sur Marne",
+      "price": "1 516 €",
+      "rooms": "5 pièces",
+      "surface": "72 m²",
+      "url": "https://www.inli.fr/location-appartement-le-perreux-sur-marne-94170/PRV-064687"
     },
     "PRV-065919": {
       "city": "Fresnes",
@@ -1167,6 +1181,13 @@
       "surface": "46 m²",
       "url": "https://www.inli.fr/location-appartement-creteil-94000/PRV-251469"
     },
+    "PRV-251494": {
+      "city": "Creteil",
+      "price": "1 378 €",
+      "rooms": "3 pièces",
+      "surface": "66 m²",
+      "url": "https://www.inli.fr/location-appartement-creteil-94000/PRV-251494"
+    },
     "PRV-252889": {
       "city": "Thiais",
       "price": "1 060 €",
@@ -1209,6 +1230,13 @@
       "surface": "64.75 m²",
       "url": "https://www.inli.fr/location-appartement-villejuif-94800/PRV-309564"
     },
+    "PRV-309574": {
+      "city": "Villejuif",
+      "price": "1 776 €",
+      "rooms": "4 pièces",
+      "surface": "90.51 m²",
+      "url": "https://www.inli.fr/location-appartement-villejuif-94800/PRV-309574"
+    },
     "PRV-331785": {
       "city": "Cachan",
       "price": "1 504 €",
@@ -1222,6 +1250,13 @@
       "rooms": "3 pièces",
       "surface": "68.5 m²",
       "url": "https://www.inli.fr/location-appartement-cachan-94230/PRV-331804"
+    },
+    "PRV-340870": {
+      "city": "Ivry Sur Seine",
+      "price": "1 552 €",
+      "rooms": "3 pièces",
+      "surface": "62.1 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/PRV-340870"
     },
     "PRV-352411": {
       "city": "Alfortville",
@@ -1272,13 +1307,6 @@
       "surface": "70.16 m²",
       "url": "https://www.inli.fr/location-appartement-nogent-sur-marne-94130/PRV-383287"
     },
-    "PRV-384857": {
-      "city": "Orly",
-      "price": "631 €",
-      "rooms": "Studio",
-      "surface": "30.07 m²",
-      "url": "https://www.inli.fr/location-appartement-orly-94310/PRV-384857"
-    },
     "x3F-7755-1112L": {
       "city": "Le Plessis Trevise",
       "price": "946 €",
@@ -1322,13 +1350,6 @@
       "rooms": "5 pièces",
       "surface": "101 m²",
       "url": "https://www.inli.fr/location-appartement-deuil-la-barre-95170/PRV-218982"
-    },
-    "PRV-341762": {
-      "city": "Bezons",
-      "price": "1 187 €",
-      "rooms": "3 pièces",
-      "surface": "62.8 m²",
-      "url": "https://www.inli.fr/location-appartement-bezons-95870/PRV-341762"
     },
     "x3F-G708-2104L": {
       "city": "Soisy Sous Montmorency",
