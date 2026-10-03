@@ -30,13 +30,6 @@
       "surface": "103 m²",
       "url": "https://www.inli.fr/location-appartement-melun-77000/PRV-315317"
     },
-    "PRV-376478": {
-      "city": "Villeparisis",
-      "price": "761 €",
-      "rooms": "2 pièces",
-      "surface": "39.89 m²",
-      "url": "https://www.inli.fr/location-appartement-villeparisis-77270/PRV-376478"
-    },
     "xSeq-7868-438413": {
       "city": "Ozoir La Ferriere",
       "price": "1 184 €",
@@ -46,68 +39,12 @@
     }
   },
   "78": {
-    "654-20080-1407": {
-      "city": "Versailles",
-      "price": "1 339 €",
-      "rooms": "3 pièces",
-      "surface": "58.5 m²",
-      "url": "https://www.inli.fr/location-appartement-versailles-78000/654-20080-1407"
-    },
     "654-20080-1408": {
       "city": "Versailles",
       "price": "1 319 €",
       "rooms": "3 pièces",
       "surface": "56.55 m²",
       "url": "https://www.inli.fr/location-appartement-versailles-78000/654-20080-1408"
-    },
-    "654-20080-1409": {
-      "city": "Versailles",
-      "price": "1 319 €",
-      "rooms": "3 pièces",
-      "surface": "56.85 m²",
-      "url": "https://www.inli.fr/location-appartement-versailles-78000/654-20080-1409"
-    },
-    "654-20080-1501": {
-      "city": "Versailles",
-      "price": "1 978 €",
-      "rooms": "4 pièces",
-      "surface": "97.95 m²",
-      "url": "https://www.inli.fr/location-appartement-versailles-78000/654-20080-1501"
-    },
-    "654-20080-1502": {
-      "city": "Versailles",
-      "price": "1 991 €",
-      "rooms": "4 pièces",
-      "surface": "99.15 m²",
-      "url": "https://www.inli.fr/location-appartement-versailles-78000/654-20080-1502"
-    },
-    "654-20080-1503": {
-      "city": "Versailles",
-      "price": "1 978 €",
-      "rooms": "4 pièces",
-      "surface": "97.75 m²",
-      "url": "https://www.inli.fr/location-appartement-versailles-78000/654-20080-1503"
-    },
-    "654-20080-1504": {
-      "city": "Versailles",
-      "price": "1 991 €",
-      "rooms": "4 pièces",
-      "surface": "99.1 m²",
-      "url": "https://www.inli.fr/location-appartement-versailles-78000/654-20080-1504"
-    },
-    "654-20080-1505": {
-      "city": "Versailles",
-      "price": "1 978 €",
-      "rooms": "4 pièces",
-      "surface": "97.85 m²",
-      "url": "https://www.inli.fr/location-appartement-versailles-78000/654-20080-1505"
-    },
-    "654-20080-1508": {
-      "city": "Versailles",
-      "price": "621 €",
-      "rooms": "Studio",
-      "surface": "20.95 m²",
-      "url": "https://www.inli.fr/location-appartement-versailles-78000/654-20080-1508"
     },
     "PRV-051400": {
       "city": "Elancourt",
@@ -178,13 +115,6 @@
       "rooms": "3 pièces",
       "surface": "68 m²",
       "url": "https://www.inli.fr/location-appartement-chatou-78400/PRV-279155"
-    },
-    "PRV-302789": {
-      "city": "Guyancourt",
-      "price": "1 004 €",
-      "rooms": "3 pièces",
-      "surface": "68.79 m²",
-      "url": "https://www.inli.fr/location-appartement-guyancourt-78280/PRV-302789"
     },
     "PRV-318699": {
       "city": "Croissy Sur Seine",
@@ -323,7 +253,7 @@
   "91": {
     "PRV-054358": {
       "city": "Les Ulis",
-      "price": "1 192 €",
+      "price": "1 096 €",
       "rooms": "4 pièces",
       "surface": "76 m²",
       "url": "https://www.inli.fr/location-appartement-les-ulis-91940/PRV-054358"
@@ -542,7 +472,7 @@
     },
     "PRV-277676": {
       "city": "Clichy",
-      "price": "1 645 €",
+      "price": "1 575 €",
       "rooms": "3 pièces",
       "surface": "60 m²",
       "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-277676"
@@ -556,14 +486,14 @@
     },
     "PRV-277690": {
       "city": "Clichy",
-      "price": "1 721 €",
+      "price": "1 575 €",
       "rooms": "3 pièces",
       "surface": "60 m²",
       "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-277690"
     },
     "PRV-277693": {
       "city": "Clichy",
-      "price": "1 645 €",
+      "price": "1 575 €",
       "rooms": "3 pièces",
       "surface": "60 m²",
       "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-277693"
@@ -829,26 +759,12 @@
       "surface": "95.8 m²",
       "url": "https://www.inli.fr/location-appartement-bondy-93140/409-40004-4001"
     },
-    "441-20019-2002": {
-      "city": "Villepinte",
-      "price": "722 €",
-      "rooms": "2 pièces",
-      "surface": "40.4 m²",
-      "url": "https://www.inli.fr/location-appartement-villepinte-93420/441-20019-2002"
-    },
     "441-20019-3001": {
       "city": "Villepinte",
       "price": "1 056 €",
       "rooms": "3 pièces",
       "surface": "65.4 m²",
       "url": "https://www.inli.fr/location-appartement-villepinte-93420/441-20019-3001"
-    },
-    "441-20033-2003": {
-      "city": "Le Blanc Mesnil",
-      "price": "782 €",
-      "rooms": "2 pièces",
-      "surface": "39.7 m²",
-      "url": "https://www.inli.fr/location-appartement-le-blanc-mesnil-93150/441-20033-2003"
     },
     "441-20045-1002": {
       "city": "Bondy",
@@ -1122,13 +1038,6 @@
       "rooms": "4 pièces",
       "surface": "90.2 m²",
       "url": "https://www.inli.fr/location-appartement-la-courneuve-93120/x3F-7332-4262L"
-    },
-    "x3F-7746-1124L": {
-      "city": "Villepinte",
-      "price": "1 053 €",
-      "rooms": "3 pièces",
-      "surface": "63 m²",
-      "url": "https://www.inli.fr/location-appartement-villepinte-93420/x3F-7746-1124L"
     }
   },
   "94": {
@@ -1236,13 +1145,6 @@
       "rooms": "3 pièces",
       "surface": "65 m²",
       "url": "https://www.inli.fr/location-appartement-maisons-alfort-94700/PRV-056855"
-    },
-    "PRV-063655": {
-      "city": "L Hay Les Roses",
-      "price": "1 140 €",
-      "rooms": "4 pièces",
-      "surface": "72 m²",
-      "url": "https://www.inli.fr/location-appartement-l-hay-les-roses-94240/PRV-063655"
     },
     "PRV-064687": {
       "city": "Le Perreux Sur Marne",
@@ -1453,13 +1355,6 @@
       "rooms": "3 pièces",
       "surface": "62.5 m²",
       "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-354353"
-    },
-    "PRV-380353": {
-      "city": "Villeneuve St Georges",
-      "price": "1 009 €",
-      "rooms": "3 pièces",
-      "surface": "57.7 m²",
-      "url": "https://www.inli.fr/location-appartement-villeneuve-st-georges-94190/PRV-380353"
     },
     "PRV-383235": {
       "city": "Nogent Sur Marne",
