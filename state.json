@@ -98,13 +98,6 @@
       "surface": "35 m²",
       "url": "https://www.inli.fr/location-appartement-paris-75019/PRV-316717"
     },
-    "PRV-326117": {
-      "city": "Paris 20ème",
-      "price": "631 €",
-      "rooms": "Studio",
-      "surface": "29 m²",
-      "url": "https://www.inli.fr/location-appartement-paris-75020/PRV-326117"
-    },
     "PRV-327408": {
       "city": "Paris 20ème",
       "price": "1 490 €",
@@ -326,13 +319,6 @@
       "surface": "63.25 m²",
       "url": "https://www.inli.fr/location-appartement-montesson-78360/PRV-343312"
     },
-    "PRV-346855": {
-      "city": "Noisy Le Roi",
-      "price": "948 €",
-      "rooms": "2 pièces",
-      "surface": "42.13 m²",
-      "url": "https://www.inli.fr/location-appartement-noisy-le-roi-78590/PRV-346855"
-    },
     "PRV-346900": {
       "city": "Noisy Le Roi",
       "price": "1 176 €",
@@ -367,20 +353,6 @@
       "rooms": "2 pièces",
       "surface": "48.5 m²",
       "url": "https://www.inli.fr/location-appartement-houilles-78800/PRV-378749"
-    },
-    "PRV-378754": {
-      "city": "Houilles",
-      "price": "885 €",
-      "rooms": "2 pièces",
-      "surface": "42.6 m²",
-      "url": "https://www.inli.fr/location-appartement-houilles-78800/PRV-378754"
-    },
-    "PRV-378763": {
-      "city": "Houilles",
-      "price": "721 €",
-      "rooms": "Studio",
-      "surface": "29.7 m²",
-      "url": "https://www.inli.fr/location-appartement-houilles-78800/PRV-378763"
     },
     "PRV-386849": {
       "city": "Chatou",
@@ -468,13 +440,6 @@
       "surface": "56.29 m²",
       "url": "https://www.inli.fr/location-appartement-paray-vieille-poste-91550/PRV-348099"
     },
-    "PRV-354292": {
-      "city": "Ris Orangis",
-      "price": "695 €",
-      "rooms": "2 pièces",
-      "surface": "44.22 m²",
-      "url": "https://www.inli.fr/location-appartement-ris-orangis-91130/PRV-354292"
-    },
     "x3F-0917-1136L": {
       "city": "Juvisy Sur Orge",
       "price": "1 200 €",
@@ -504,13 +469,6 @@
       "rooms": "5 pièces",
       "surface": "81 m²",
       "url": "https://www.inli.fr/location-appartement-montrouge-92120/441-3126-568"
-    },
-    "441-4069-3573": {
-      "city": "Rueil Malmaison",
-      "price": "1 065 €",
-      "rooms": "3 pièces",
-      "surface": "56 m²",
-      "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/441-4069-3573"
     },
     "441-4243-8296": {
       "city": "Le Plessis Robinson",
@@ -1053,13 +1011,6 @@
       "surface": "54.1 m²",
       "url": "https://www.inli.fr/location-appartement-pantin-93500/PRV-309418"
     },
-    "PRV-320094": {
-      "city": "Epinay Sur Seine",
-      "price": "770 €",
-      "rooms": "3 pièces",
-      "surface": "54 m²",
-      "url": "https://www.inli.fr/location-appartement-epinay-sur-seine-93800/PRV-320094"
-    },
     "PRV-326320": {
       "city": "Aubervilliers",
       "price": "1 118 €",
@@ -1178,13 +1129,6 @@
       "rooms": "3 pièces",
       "surface": "68.2 m²",
       "url": "https://www.inli.fr/location-appartement-aulnay-sous-bois-93600/PRV-369310"
-    },
-    "PRV-376583": {
-      "city": "Rosny Sous Bois",
-      "price": "886 €",
-      "rooms": "2 pièces",
-      "surface": "45.9 m²",
-      "url": "https://www.inli.fr/location-appartement-rosny-sous-bois-93110/PRV-376583"
     },
     "PRV-385153": {
       "city": "Aubervilliers",
@@ -1337,7 +1281,7 @@
     },
     "441-4136-7111": {
       "city": "Creteil",
-      "price": "1 101 €",
+      "price": "1 066 €",
       "rooms": "3 pièces",
       "surface": "52 m²",
       "url": "https://www.inli.fr/location-appartement-creteil-94000/441-4136-7111"
