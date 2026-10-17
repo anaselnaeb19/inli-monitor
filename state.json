@@ -1273,5 +1273,27 @@
       "url": "https://www.inli.fr/location-appartement-le-plessis-trevise-94420/x3F-7755-1122L"
     }
   },
-  "95": {}
+  "95": {
+    "PRV-218982": {
+      "city": "Deuil La Barre",
+      "price": "1 529 €",
+      "rooms": "5 pièces",
+      "surface": "101 m²",
+      "url": "https://www.inli.fr/location-appartement-deuil-la-barre-95170/PRV-218982"
+    },
+    "PRV-277982": {
+      "city": "Pontoise",
+      "price": "1 484 €",
+      "rooms": "4 pièces",
+      "surface": "82 m²",
+      "url": "https://www.inli.fr/location-appartement-pontoise-95300/PRV-277982"
+    },
+    "x3F-G708-2124L": {
+      "city": "Soisy Sous Montmorency",
+      "price": "887 €",
+      "rooms": "2 pièces",
+      "surface": "46.5 m²",
+      "url": "https://www.inli.fr/location-appartement-soisy-sous-montmorency-95230/x3F-G708-2124L"
+    }
+  }
 }
