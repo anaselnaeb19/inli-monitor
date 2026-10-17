@@ -44,13 +44,6 @@
       "surface": "60.7 m²",
       "url": "https://www.inli.fr/location-appartement-claye-souilly-77410/409-40001-3013"
     },
-    "441-20073-1004": {
-      "city": "Bussy St Georges",
-      "price": "740 €",
-      "rooms": "Studio",
-      "surface": "31.31 m²",
-      "url": "https://www.inli.fr/location-appartement-bussy-st-georges-77600/441-20073-1004"
-    },
     "PRV-315317": {
       "city": "Melun",
       "price": "1 440 €",
@@ -206,13 +199,6 @@
       "rooms": "Studio",
       "surface": "46.84 m²",
       "url": "https://www.inli.fr/location-appartement-bougival-78380/PRV-348716"
-    },
-    "x3F-7801L-1132": {
-      "city": "Maurepas",
-      "price": "1 193 €",
-      "rooms": "3 pièces",
-      "surface": "70.82 m²",
-      "url": "https://www.inli.fr/location-appartement-maurepas-78310/x3F-7801L-1132"
     }
   },
   "91": {
@@ -1287,13 +1273,6 @@
       "rooms": "4 pièces",
       "surface": "82 m²",
       "url": "https://www.inli.fr/location-appartement-pontoise-95300/PRV-277982"
-    },
-    "x3F-G708-2124L": {
-      "city": "Soisy Sous Montmorency",
-      "price": "887 €",
-      "rooms": "2 pièces",
-      "surface": "46.5 m²",
-      "url": "https://www.inli.fr/location-appartement-soisy-sous-montmorency-95230/x3F-G708-2124L"
     }
   }
 }
