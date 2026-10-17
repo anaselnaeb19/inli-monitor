@@ -206,6 +206,13 @@
       "rooms": "Studio",
       "surface": "46.84 m²",
       "url": "https://www.inli.fr/location-appartement-bougival-78380/PRV-348716"
+    },
+    "x3F-7801L-1132": {
+      "city": "Maurepas",
+      "price": "1 193 €",
+      "rooms": "3 pièces",
+      "surface": "70.82 m²",
+      "url": "https://www.inli.fr/location-appartement-maurepas-78310/x3F-7801L-1132"
     }
   },
   "91": {
@@ -483,13 +490,6 @@
       "rooms": "3 pièces",
       "surface": "68.46 m²",
       "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/PRV-312786"
-    },
-    "PRV-320523": {
-      "city": "Suresnes",
-      "price": "978 €",
-      "rooms": "2 pièces",
-      "surface": "50.77 m²",
-      "url": "https://www.inli.fr/location-appartement-suresnes-92150/PRV-320523"
     },
     "PRV-322757": {
       "city": "Sevres",
@@ -1264,13 +1264,6 @@
       "rooms": "5 pièces",
       "surface": "109.5 m²",
       "url": "https://www.inli.fr/location-appartement-nogent-sur-marne-94130/PRV-383279"
-    },
-    "PRV-384591": {
-      "city": "Creteil",
-      "price": "1 219 €",
-      "rooms": "3 pièces",
-      "surface": "60.75 m²",
-      "url": "https://www.inli.fr/location-appartement-creteil-94000/PRV-384591"
     },
     "x3F-7755-1122L": {
       "city": "Le Plessis Trevise",
