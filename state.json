@@ -956,7 +956,379 @@
       "url": "https://www.inli.fr/location-appartement-la-courneuve-93120/x3F-7332-4262L"
     }
   },
-  "94": {},
+  "94": {
+    "441-20038-3018": {
+      "city": "Chevilly Larue",
+      "price": "1 174 €",
+      "rooms": "3 pièces",
+      "surface": "65.1 m²",
+      "url": "https://www.inli.fr/location-appartement-chevilly-larue-94550/441-20038-3018"
+    },
+    "441-20050-4020": {
+      "city": "Champigny Sur Marne",
+      "price": "1 500 €",
+      "rooms": "4 pièces",
+      "surface": "85.6 m²",
+      "url": "https://www.inli.fr/location-appartement-champigny-sur-marne-94500/441-20050-4020"
+    },
+    "441-4090-1077": {
+      "city": "Ivry Sur Seine",
+      "price": "1 369 €",
+      "rooms": "4 pièces",
+      "surface": "65 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/441-4090-1077"
+    },
+    "441-4360-5245": {
+      "city": "Villejuif",
+      "price": "1 384 €",
+      "rooms": "4 pièces",
+      "surface": "79 m²",
+      "url": "https://www.inli.fr/location-appartement-villejuif-94800/441-4360-5245"
+    },
+    "654-20081-10006": {
+      "city": "Villejuif",
+      "price": "1 362 €",
+      "rooms": "3 pièces",
+      "surface": "69.7 m²",
+      "url": "https://www.inli.fr/location-appartement-villejuif-94800/654-20081-10006"
+    },
+    "654-20083-1003": {
+      "city": "Ivry Sur Seine",
+      "price": "974 €",
+      "rooms": "Studio",
+      "surface": "36.1 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-1003"
+    },
+    "654-20083-1005": {
+      "city": "Ivry Sur Seine",
+      "price": "972 €",
+      "rooms": "Studio",
+      "surface": "36 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-1005"
+    },
+    "654-20083-2001": {
+      "city": "Ivry Sur Seine",
+      "price": "1 252 €",
+      "rooms": "2 pièces",
+      "surface": "47.3 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-2001"
+    },
+    "654-20083-2004": {
+      "city": "Ivry Sur Seine",
+      "price": "1 298 €",
+      "rooms": "2 pièces",
+      "surface": "49 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-2004"
+    },
+    "654-20083-2009": {
+      "city": "Ivry Sur Seine",
+      "price": "1 305 €",
+      "rooms": "2 pièces",
+      "surface": "50.6 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-2009"
+    },
+    "654-20083-2012": {
+      "city": "Ivry Sur Seine",
+      "price": "1 290 €",
+      "rooms": "2 pièces",
+      "surface": "48.5 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-2012"
+    },
+    "654-20083-2013": {
+      "city": "Ivry Sur Seine",
+      "price": "1 232 €",
+      "rooms": "2 pièces",
+      "surface": "46.1 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-2013"
+    },
+    "654-20083-2014": {
+      "city": "Ivry Sur Seine",
+      "price": "1 330 €",
+      "rooms": "2 pièces",
+      "surface": "52.1 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-2014"
+    },
+    "654-20083-2024": {
+      "city": "Ivry Sur Seine",
+      "price": "1 326 €",
+      "rooms": "2 pièces",
+      "surface": "51.9 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-2024"
+    },
+    "654-20083-3010": {
+      "city": "Ivry Sur Seine",
+      "price": "1 396 €",
+      "rooms": "3 pièces",
+      "surface": "56.7 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-3010"
+    },
+    "654-20083-3011": {
+      "city": "Ivry Sur Seine",
+      "price": "1 398 €",
+      "rooms": "3 pièces",
+      "surface": "56.8 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-3011"
+    },
+    "654-20083-3018": {
+      "city": "Ivry Sur Seine",
+      "price": "1 648 €",
+      "rooms": "3 pièces",
+      "surface": "74.8 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-3018"
+    },
+    "654-20083-3020": {
+      "city": "Ivry Sur Seine",
+      "price": "1 700 €",
+      "rooms": "3 pièces",
+      "surface": "75 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-3020"
+    },
+    "654-20083-3021": {
+      "city": "Ivry Sur Seine",
+      "price": "1 635 €",
+      "rooms": "3 pièces",
+      "surface": "71.1 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-3021"
+    },
+    "654-20083-4000": {
+      "city": "Ivry Sur Seine",
+      "price": "1 924 €",
+      "rooms": "4 pièces",
+      "surface": "92.4 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-4000"
+    },
+    "654-20083-4001": {
+      "city": "Ivry Sur Seine",
+      "price": "1 977 €",
+      "rooms": "4 pièces",
+      "surface": "92.3 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-4001"
+    },
+    "654-20083-4002": {
+      "city": "Ivry Sur Seine",
+      "price": "1 980 €",
+      "rooms": "4 pièces",
+      "surface": "92.5 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-4002"
+    },
+    "654-20083-5000": {
+      "city": "Ivry Sur Seine",
+      "price": "2 093 €",
+      "rooms": "5 pièces",
+      "surface": "99.8 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94206/654-20083-5000"
+    },
+    "PRV-053559": {
+      "city": "L Hay Les Roses",
+      "price": "1 171 €",
+      "rooms": "3 pièces",
+      "surface": "60 m²",
+      "url": "https://www.inli.fr/location-appartement-l-hay-les-roses-94240/PRV-053559"
+    },
+    "PRV-056855": {
+      "city": "Maisons Alfort",
+      "price": "1 602 €",
+      "rooms": "3 pièces",
+      "surface": "65 m²",
+      "url": "https://www.inli.fr/location-appartement-maisons-alfort-94700/PRV-056855"
+    },
+    "PRV-057547": {
+      "city": "Creteil",
+      "price": "1 171 €",
+      "rooms": "4 pièces",
+      "surface": "79.34 m²",
+      "url": "https://www.inli.fr/location-appartement-creteil-94000/PRV-057547"
+    },
+    "PRV-064687": {
+      "city": "Le Perreux Sur Marne",
+      "price": "1 516 €",
+      "rooms": "5 pièces",
+      "surface": "72 m²",
+      "url": "https://www.inli.fr/location-appartement-le-perreux-sur-marne-94170/PRV-064687"
+    },
+    "PRV-065963": {
+      "city": "Fresnes",
+      "price": "1 121 €",
+      "rooms": "3 pièces",
+      "surface": "57 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-065963"
+    },
+    "PRV-065971": {
+      "city": "Fresnes",
+      "price": "1 151 €",
+      "rooms": "3 pièces",
+      "surface": "57 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-065971"
+    },
+    "PRV-065980": {
+      "city": "Fresnes",
+      "price": "1 121 €",
+      "rooms": "3 pièces",
+      "surface": "57 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-065980"
+    },
+    "PRV-065988": {
+      "city": "Fresnes",
+      "price": "1 151 €",
+      "rooms": "3 pièces",
+      "surface": "57 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-065988"
+    },
+    "PRV-065990": {
+      "city": "Fresnes",
+      "price": "1 066 €",
+      "rooms": "3 pièces",
+      "surface": "57 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-065990"
+    },
+    "PRV-214249": {
+      "city": "Champigny Sur Marne",
+      "price": "1 115 €",
+      "rooms": "3 pièces",
+      "surface": "55 m²",
+      "url": "https://www.inli.fr/location-appartement-champigny-sur-marne-94500/PRV-214249"
+    },
+    "PRV-215988": {
+      "city": "Joinville Le Pont",
+      "price": "1 224 €",
+      "rooms": "2 pièces",
+      "surface": "49 m²",
+      "url": "https://www.inli.fr/location-appartement-joinville-le-pont-94340/PRV-215988"
+    },
+    "PRV-218144": {
+      "city": "Alfortville",
+      "price": "1 322 €",
+      "rooms": "3 pièces",
+      "surface": "57 m²",
+      "url": "https://www.inli.fr/location-appartement-alfortville-94140/PRV-218144"
+    },
+    "PRV-240798": {
+      "city": "Vitry Sur Seine",
+      "price": "1 441 €",
+      "rooms": "5 pièces",
+      "surface": "82 m²",
+      "url": "https://www.inli.fr/location-appartement-vitry-sur-seine-94400/PRV-240798"
+    },
+    "PRV-251476": {
+      "city": "Creteil",
+      "price": "1 400 €",
+      "rooms": "4 pièces",
+      "surface": "79 m²",
+      "url": "https://www.inli.fr/location-appartement-creteil-94000/PRV-251476"
+    },
+    "PRV-251478": {
+      "city": "Creteil",
+      "price": "1 049 €",
+      "rooms": "2 pièces",
+      "surface": "46 m²",
+      "url": "https://www.inli.fr/location-appartement-creteil-94000/PRV-251478"
+    },
+    "PRV-271296": {
+      "city": "Le Perreux Sur Marne",
+      "price": "1 269 €",
+      "rooms": "3 pièces",
+      "surface": "56 m²",
+      "url": "https://www.inli.fr/location-appartement-le-perreux-sur-marne-94170/PRV-271296"
+    },
+    "PRV-304268": {
+      "city": "Fresnes",
+      "price": "1 071 €",
+      "rooms": "3 pièces",
+      "surface": "57 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-304268"
+    },
+    "PRV-304289": {
+      "city": "Fresnes",
+      "price": "1 581 €",
+      "rooms": "5 pièces",
+      "surface": "81 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-304289"
+    },
+    "PRV-319218": {
+      "city": "Fresnes",
+      "price": "1 187 €",
+      "rooms": "4 pièces",
+      "surface": "68 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-319218"
+    },
+    "PRV-331804": {
+      "city": "Cachan",
+      "price": "1 623 €",
+      "rooms": "3 pièces",
+      "surface": "68.5 m²",
+      "url": "https://www.inli.fr/location-appartement-cachan-94230/PRV-331804"
+    },
+    "PRV-348218": {
+      "city": "Gentilly",
+      "price": "1 397 €",
+      "rooms": "3 pièces",
+      "surface": "66.87 m²",
+      "url": "https://www.inli.fr/location-appartement-gentilly-94250/PRV-348218"
+    },
+    "PRV-387729": {
+      "city": "Ivry Sur Seine",
+      "price": "1 711 €",
+      "rooms": "4 pièces",
+      "surface": "87 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/PRV-387729"
+    },
+    "PRV-387730": {
+      "city": "Ivry Sur Seine",
+      "price": "1 068 €",
+      "rooms": "2 pièces",
+      "surface": "41.7 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/PRV-387730"
+    },
+    "PRV-387733": {
+      "city": "Ivry Sur Seine",
+      "price": "1 731 €",
+      "rooms": "4 pièces",
+      "surface": "87.25 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/PRV-387733"
+    },
+    "PRV-387739": {
+      "city": "Ivry Sur Seine",
+      "price": "1 238 €",
+      "rooms": "3 pièces",
+      "surface": "58.25 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/PRV-387739"
+    },
+    "PRV-387744": {
+      "city": "Ivry Sur Seine",
+      "price": "1 377 €",
+      "rooms": "3 pièces",
+      "surface": "65.3 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/PRV-387744"
+    },
+    "PRV-387747": {
+      "city": "Ivry Sur Seine",
+      "price": "1 399 €",
+      "rooms": "3 pièces",
+      "surface": "68.6 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/PRV-387747"
+    },
+    "PRV-387748": {
+      "city": "Ivry Sur Seine",
+      "price": "1 318 €",
+      "rooms": "3 pièces",
+      "surface": "65.1 m²",
+      "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/PRV-387748"
+    },
+    "x3F-7755-1113L": {
+      "city": "Le Plessis Trevise",
+      "price": "1 143 €",
+      "rooms": "3 pièces",
+      "surface": "59.12 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-trevise-94420/x3F-7755-1113L"
+    },
+    "x3F-7755-1145L": {
+      "city": "Le Plessis Trevise",
+      "price": "1 238 €",
+      "rooms": "3 pièces",
+      "surface": "63.71 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-trevise-94420/x3F-7755-1145L"
+    }
+  },
   "95": {
     "441-20025-4006": {
       "city": "Bezons",
