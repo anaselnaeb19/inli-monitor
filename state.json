@@ -365,12 +365,75 @@
       "surface": "81.97 m²",
       "url": "https://www.inli.fr/location-appartement-clamart-92140/409-40003-4011"
     },
+    "441-3126-568": {
+      "city": "Montrouge",
+      "price": "1 715 €",
+      "rooms": "5 pièces",
+      "surface": "81 m²",
+      "url": "https://www.inli.fr/location-appartement-montrouge-92120/441-3126-568"
+    },
+    "441-4069-3430": {
+      "city": "Rueil Malmaison",
+      "price": "1 141 €",
+      "rooms": "3 pièces",
+      "surface": "56 m²",
+      "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/441-4069-3430"
+    },
+    "441-4069-3526": {
+      "city": "Rueil Malmaison",
+      "price": "1 209 €",
+      "rooms": "4 pièces",
+      "surface": "67 m²",
+      "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/441-4069-3526"
+    },
+    "441-4069-3548": {
+      "city": "Rueil Malmaison",
+      "price": "1 308 €",
+      "rooms": "4 pièces",
+      "surface": "67 m²",
+      "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/441-4069-3548"
+    },
+    "441-4243-8296": {
+      "city": "Le Plessis Robinson",
+      "price": "1 533 €",
+      "rooms": "4 pièces",
+      "surface": "84 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/441-4243-8296"
+    },
+    "441-4243-8321": {
+      "city": "Le Plessis Robinson",
+      "price": "1 602 €",
+      "rooms": "4 pièces",
+      "surface": "84 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/441-4243-8321"
+    },
+    "441-4243-8325": {
+      "city": "Le Plessis Robinson",
+      "price": "1 509 €",
+      "rooms": "4 pièces",
+      "surface": "84 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/441-4243-8325"
+    },
+    "441-4243-8370": {
+      "city": "Chatenay Malabry",
+      "price": "1 327 €",
+      "rooms": "3 pièces",
+      "surface": "64 m²",
+      "url": "https://www.inli.fr/location-appartement-chatenay-malabry-92290/441-4243-8370"
+    },
     "654-20068-4008": {
       "city": "Colombes",
       "price": "1 593 €",
       "rooms": "4 pièces",
       "surface": "81.4 m²",
       "url": "https://www.inli.fr/location-appartement-colombes-92700/654-20068-4008"
+    },
+    "PRV-054138": {
+      "city": "Le Plessis Robinson",
+      "price": "1 548 €",
+      "rooms": "3 pièces",
+      "surface": "65 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-054138"
     },
     "PRV-054145": {
       "city": "Le Plessis Robinson",
@@ -379,6 +442,13 @@
       "surface": "65 m²",
       "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-054145"
     },
+    "PRV-054147": {
+      "city": "Le Plessis Robinson",
+      "price": "1 225 €",
+      "rooms": "3 pièces",
+      "surface": "65 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-054147"
+    },
     "PRV-054160": {
       "city": "Le Plessis Robinson",
       "price": "1 493 €",
@@ -386,12 +456,33 @@
       "surface": "65 m²",
       "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-054160"
     },
+    "PRV-054172": {
+      "city": "Le Plessis Robinson",
+      "price": "1 472 €",
+      "rooms": "4 pièces",
+      "surface": "80 m²",
+      "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-054172"
+    },
     "PRV-054217": {
       "city": "Le Plessis Robinson",
       "price": "1 407 €",
       "rooms": "3 pièces",
       "surface": "65 m²",
       "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-054217"
+    },
+    "PRV-211886": {
+      "city": "Bourg La Reine",
+      "price": "1 085 €",
+      "rooms": "3 pièces",
+      "surface": "52 m²",
+      "url": "https://www.inli.fr/location-appartement-bourg-la-reine-92340/PRV-211886"
+    },
+    "PRV-212981": {
+      "city": "Clichy",
+      "price": "1 493 €",
+      "rooms": "5 pièces",
+      "surface": "77 m²",
+      "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-212981"
     },
     "PRV-213190": {
       "city": "Nanterre",
@@ -406,6 +497,13 @@
       "rooms": "2 pièces",
       "surface": "37 m²",
       "url": "https://www.inli.fr/location-appartement-nanterre-92000/PRV-213217"
+    },
+    "PRV-216195": {
+      "city": "Clichy",
+      "price": "1 907 €",
+      "rooms": "3 pièces",
+      "surface": "69.39 m²",
+      "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-216195"
     },
     "PRV-216388": {
       "city": "Le Plessis Robinson",
@@ -442,6 +540,20 @@
       "surface": "88 m²",
       "url": "https://www.inli.fr/location-appartement-le-plessis-robinson-92350/PRV-216529"
     },
+    "PRV-242268": {
+      "city": "Bagneux",
+      "price": "1 551 €",
+      "rooms": "5 pièces",
+      "surface": "79 m²",
+      "url": "https://www.inli.fr/location-appartement-bagneux-92220/PRV-242268"
+    },
+    "PRV-242439": {
+      "city": "Bagneux",
+      "price": "1 553 €",
+      "rooms": "5 pièces",
+      "surface": "79 m²",
+      "url": "https://www.inli.fr/location-appartement-bagneux-92220/PRV-242439"
+    },
     "PRV-250998": {
       "city": "Clamart",
       "price": "1 473 €",
@@ -463,6 +575,48 @@
       "surface": "75 m²",
       "url": "https://www.inli.fr/location-appartement-clamart-92140/PRV-251022"
     },
+    "PRV-253570": {
+      "city": "La Garenne Colombes",
+      "price": "1 820 €",
+      "rooms": "4 pièces",
+      "surface": "81 m²",
+      "url": "https://www.inli.fr/location-appartement-la-garenne-colombes-92250/PRV-253570"
+    },
+    "PRV-274759": {
+      "city": "Asnieres Sur Seine",
+      "price": "1 507 €",
+      "rooms": "4 pièces",
+      "surface": "80 m²",
+      "url": "https://www.inli.fr/location-appartement-asnieres-sur-seine-92600/PRV-274759"
+    },
+    "PRV-277661": {
+      "city": "Clichy",
+      "price": "1 575 €",
+      "rooms": "3 pièces",
+      "surface": "60 m²",
+      "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-277661"
+    },
+    "PRV-277676": {
+      "city": "Clichy",
+      "price": "1 575 €",
+      "rooms": "3 pièces",
+      "surface": "60 m²",
+      "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-277676"
+    },
+    "PRV-277693": {
+      "city": "Clichy",
+      "price": "1 575 €",
+      "rooms": "3 pièces",
+      "surface": "60 m²",
+      "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-277693"
+    },
+    "PRV-278641": {
+      "city": "Asnieres Sur Seine",
+      "price": "1 400 €",
+      "rooms": "4 pièces",
+      "surface": "78 m²",
+      "url": "https://www.inli.fr/location-appartement-asnieres-sur-seine-92600/PRV-278641"
+    },
     "PRV-309701": {
       "city": "Rueil Malmaison",
       "price": "1 249 €",
@@ -477,12 +631,47 @@
       "surface": "57.2 m²",
       "url": "https://www.inli.fr/location-appartement-fontenay-aux-roses-92260/PRV-318192"
     },
+    "PRV-318197": {
+      "city": "Fontenay Aux Roses",
+      "price": "1 149 €",
+      "rooms": "3 pièces",
+      "surface": "59 m²",
+      "url": "https://www.inli.fr/location-appartement-fontenay-aux-roses-92260/PRV-318197"
+    },
+    "PRV-319300": {
+      "city": "Neuilly Sur Seine",
+      "price": "1 481 €",
+      "rooms": "2 pièces",
+      "surface": "56 m²",
+      "url": "https://www.inli.fr/location-appartement-neuilly-sur-seine-92200/PRV-319300"
+    },
     "PRV-322319": {
       "city": "Chatillon",
       "price": "821 €",
       "rooms": "Studio",
       "surface": "28 m²",
       "url": "https://www.inli.fr/location-appartement-chatillon-92320/PRV-322319"
+    },
+    "PRV-324412": {
+      "city": "Levallois Perret",
+      "price": "2 460 €",
+      "rooms": "5 pièces",
+      "surface": "93 m²",
+      "url": "https://www.inli.fr/location-appartement-levallois-perret-92300/PRV-324412"
+    },
+    "PRV-327664": {
+      "city": "Clichy",
+      "price": "1 019 €",
+      "rooms": "Studio",
+      "surface": "30.12 m²",
+      "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-327664"
+    },
+    "PRV-327674": {
+      "city": "Clichy",
+      "price": "923 €",
+      "rooms": "Studio",
+      "surface": "25.35 m²",
+      "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-327674"
     },
     "PRV-329475": {
       "city": "Puteaux",
@@ -497,6 +686,27 @@
       "rooms": "3 pièces",
       "surface": "60.5 m²",
       "url": "https://www.inli.fr/location-appartement-clamart-92140/PRV-331969"
+    },
+    "PRV-331982": {
+      "city": "Clamart",
+      "price": "1 415 €",
+      "rooms": "3 pièces",
+      "surface": "63.7 m²",
+      "url": "https://www.inli.fr/location-appartement-clamart-92140/PRV-331982"
+    },
+    "PRV-337338": {
+      "city": "Rueil Malmaison",
+      "price": "959 €",
+      "rooms": "Studio",
+      "surface": "39.62 m²",
+      "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/PRV-337338"
+    },
+    "PRV-338426": {
+      "city": "Rueil Malmaison",
+      "price": "1 552 €",
+      "rooms": "3 pièces",
+      "surface": "75.95 m²",
+      "url": "https://www.inli.fr/location-appartement-rueil-malmaison-92500/PRV-338426"
     },
     "PRV-341865": {
       "city": "Colombes",
@@ -525,6 +735,27 @@
       "rooms": "4 pièces",
       "surface": "80.4 m²",
       "url": "https://www.inli.fr/location-appartement-meudon-92360/PRV-362172"
+    },
+    "PRV-384968": {
+      "city": "Colombes",
+      "price": "2 042 €",
+      "rooms": "5 pièces",
+      "surface": "97.71 m²",
+      "url": "https://www.inli.fr/location-appartement-colombes-92700/PRV-384968"
+    },
+    "PRV-384980": {
+      "city": "Colombes",
+      "price": "2 042 €",
+      "rooms": "5 pièces",
+      "surface": "97.74 m²",
+      "url": "https://www.inli.fr/location-appartement-colombes-92700/PRV-384980"
+    },
+    "PRV-386080": {
+      "city": "Clichy",
+      "price": "2 565 €",
+      "rooms": "5 pièces",
+      "surface": "107.02 m²",
+      "url": "https://www.inli.fr/location-appartement-clichy-92110/PRV-386080"
     }
   },
   "93": {
