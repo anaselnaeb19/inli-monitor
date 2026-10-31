@@ -230,13 +230,6 @@
       "surface": "45.6 m²",
       "url": "https://www.inli.fr/location-appartement-juvisy-sur-orge-91260/441-20044-2015"
     },
-    "441-20044-2017": {
-      "city": "Juvisy Sur Orge",
-      "price": "865 €",
-      "rooms": "2 pièces",
-      "surface": "39.3 m²",
-      "url": "https://www.inli.fr/location-appartement-juvisy-sur-orge-91260/441-20044-2017"
-    },
     "441-20044-2031": {
       "city": "Juvisy Sur Orge",
       "price": "922 €",
@@ -299,13 +292,6 @@
       "rooms": "Studio",
       "surface": "31.09 m²",
       "url": "https://www.inli.fr/location-appartement-chilly-mazarin-91380/PRV-347197"
-    },
-    "PRV-349492": {
-      "city": "Savigny Sur Orge",
-      "price": "851 €",
-      "rooms": "2 pièces",
-      "surface": "44.1 m²",
-      "url": "https://www.inli.fr/location-appartement-savigny-sur-orge-91600/PRV-349492"
     }
   },
   "92": {
@@ -640,13 +626,6 @@
       "surface": "55.66 m²",
       "url": "https://www.inli.fr/location-appartement-gagny-93220/395-30001-2016"
     },
-    "441-4173-8414": {
-      "city": "Neuilly Plaisance",
-      "price": "974 €",
-      "rooms": "3 pièces",
-      "surface": "51 m²",
-      "url": "https://www.inli.fr/location-appartement-neuilly-plaisance-93360/441-4173-8414"
-    },
     "PRV-055108": {
       "city": "Pierrefitte Sur Seine",
       "price": "1 068 €",
@@ -745,13 +724,6 @@
       "surface": "64.6 m²",
       "url": "https://www.inli.fr/location-appartement-aubervilliers-93300/PRV-385148"
     },
-    "PRV-385905": {
-      "city": "Gagny",
-      "price": "907 €",
-      "rooms": "2 pièces",
-      "surface": "42.68 m²",
-      "url": "https://www.inli.fr/location-appartement-gagny-93220/PRV-385905"
-    },
     "PRV-385907": {
       "city": "Gagny",
       "price": "1 144 €",
@@ -765,13 +737,6 @@
       "rooms": "2 pièces",
       "surface": "43.31 m²",
       "url": "https://www.inli.fr/location-appartement-gagny-93220/PRV-385909"
-    },
-    "PRV-385910": {
-      "city": "Gagny",
-      "price": "895 €",
-      "rooms": "2 pièces",
-      "surface": "41.26 m²",
-      "url": "https://www.inli.fr/location-appartement-gagny-93220/PRV-385910"
     },
     "PRV-385927": {
       "city": "Gagny",
@@ -828,13 +793,6 @@
       "rooms": "2 pièces",
       "surface": "42.03 m²",
       "url": "https://www.inli.fr/location-appartement-epinay-sur-seine-93800/PRV-386308"
-    },
-    "PRV-386311": {
-      "city": "Epinay Sur Seine",
-      "price": "932 €",
-      "rooms": "2 pièces",
-      "surface": "41.53 m²",
-      "url": "https://www.inli.fr/location-appartement-epinay-sur-seine-93800/PRV-386311"
     },
     "PRV-386337": {
       "city": "Epinay Sur Seine",
@@ -969,13 +927,6 @@
       "surface": "83.24 m²",
       "url": "https://www.inli.fr/location-appartement-aubervilliers-93300/x3F-0918-1132L"
     },
-    "x3F-4074-1531L": {
-      "city": "Aulnay Sous Bois",
-      "price": "1 027 €",
-      "rooms": "2 pièces",
-      "surface": "52.36 m²",
-      "url": "https://www.inli.fr/location-appartement-aulnay-sous-bois-93600/x3F-4074-1531L"
-    },
     "x3F-7332-3173L": {
       "city": "La Courneuve",
       "price": "1 766 €",
@@ -996,20 +947,6 @@
       "rooms": "4 pièces",
       "surface": "90.2 m²",
       "url": "https://www.inli.fr/location-appartement-la-courneuve-93120/x3F-7332-4262L"
-    },
-    "x3F-7746-1134L": {
-      "city": "Villepinte",
-      "price": "1 053 €",
-      "rooms": "3 pièces",
-      "surface": "63 m²",
-      "url": "https://www.inli.fr/location-appartement-villepinte-93420/x3F-7746-1134L"
-    },
-    "x3F-7750-2112L": {
-      "city": "Montfermeil",
-      "price": "1 002 €",
-      "rooms": "3 pièces",
-      "surface": "63.65 m²",
-      "url": "https://www.inli.fr/location-appartement-montfermeil-93370/x3F-7750-2112L"
     },
     "x3F-7750-2121L": {
       "city": "Montfermeil",
