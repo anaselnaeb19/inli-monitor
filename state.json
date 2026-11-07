@@ -682,13 +682,6 @@
     }
   },
   "93": {
-    "441-20018-5001": {
-      "city": "Neuilly Sur Marne",
-      "price": "1 603 €",
-      "rooms": "5 pièces",
-      "surface": "92.6 m²",
-      "url": "https://www.inli.fr/location-appartement-neuilly-sur-marne-93330/441-20018-5001"
-    },
     "441-20019-4008": {
       "city": "Villepinte",
       "price": "1 435 €",
@@ -745,26 +738,12 @@
       "surface": "77 m²",
       "url": "https://www.inli.fr/location-appartement-pantin-93500/PRV-313239"
     },
-    "PRV-315547": {
-      "city": "St Ouen Sur Seine",
-      "price": "1 159 €",
-      "rooms": "3 pièces",
-      "surface": "59.8 m²",
-      "url": "https://www.inli.fr/location-appartement-st-ouen-sur-seine-93400/PRV-315547"
-    },
     "PRV-315592": {
       "city": "St Ouen Sur Seine",
       "price": "1 333 €",
       "rooms": "3 pièces",
       "surface": "64.8 m²",
       "url": "https://www.inli.fr/location-appartement-st-ouen-sur-seine-93400/PRV-315592"
-    },
-    "PRV-317339": {
-      "city": "Villepinte",
-      "price": "984 €",
-      "rooms": "3 pièces",
-      "surface": "52.9 m²",
-      "url": "https://www.inli.fr/location-appartement-villepinte-93420/PRV-317339"
     },
     "PRV-321759": {
       "city": "Le Blanc Mesnil",
@@ -779,13 +758,6 @@
       "rooms": "2 pièces",
       "surface": "42.9 m²",
       "url": "https://www.inli.fr/location-appartement-montreuil-93100/PRV-328754"
-    },
-    "PRV-332030": {
-      "city": "St Denis",
-      "price": "1 360 €",
-      "rooms": "4 pièces",
-      "surface": "72.42 m²",
-      "url": "https://www.inli.fr/location-appartement-st-denis-93200/PRV-332030"
     },
     "PRV-332090": {
       "city": "Rosny Sous Bois",
