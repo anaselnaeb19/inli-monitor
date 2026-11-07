@@ -1,12 +1,5 @@
 {
   "75": {
-    "441-1662-3356": {
-      "city": "Paris 17ème",
-      "price": "1 072 €",
-      "rooms": "2 pièces",
-      "surface": "34 m²",
-      "url": "https://www.inli.fr/location-appartement-paris-75017/441-1662-3356"
-    },
     "PRV-056216": {
       "city": "Paris 20ème",
       "price": "1 617 €",
@@ -144,13 +137,6 @@
       "surface": "82 m²",
       "url": "https://www.inli.fr/location-appartement-elancourt-78990/PRV-051400"
     },
-    "PRV-065155": {
-      "city": "Velizy Villacoublay",
-      "price": "970 €",
-      "rooms": "2 pièces",
-      "surface": "49 m²",
-      "url": "https://www.inli.fr/location-appartement-velizy-villacoublay-78140/PRV-065155"
-    },
     "PRV-212606": {
       "city": "Chatou",
       "price": "1 040 €",
@@ -249,13 +235,6 @@
       "surface": "72 m²",
       "url": "https://www.inli.fr/location-appartement-conflans-ste-honorine-78700/PRV-324633"
     },
-    "PRV-326628": {
-      "city": "Aubergenville",
-      "price": "527 €",
-      "rooms": "3 pièces",
-      "surface": "46.95 m²",
-      "url": "https://www.inli.fr/location-appartement-aubergenville-78410/PRV-326628"
-    },
     "PRV-327507": {
       "city": "Sartrouville",
       "price": "1 167 €",
@@ -291,13 +270,6 @@
       "surface": "67.88 m²",
       "url": "https://www.inli.fr/location-appartement-poissy-78300/PRV-330985"
     },
-    "PRV-330998": {
-      "city": "Poissy",
-      "price": "489 €",
-      "rooms": "Studio",
-      "surface": "22.81 m²",
-      "url": "https://www.inli.fr/location-appartement-poissy-78300/PRV-330998"
-    },
     "PRV-334449": {
       "city": "Houilles",
       "price": "1 188 €",
@@ -325,13 +297,6 @@
       "rooms": "3 pièces",
       "surface": "66.3 m²",
       "url": "https://www.inli.fr/location-appartement-viroflay-78220/PRV-340906"
-    },
-    "PRV-347873": {
-      "city": "Trappes",
-      "price": "960 €",
-      "rooms": "3 pièces",
-      "surface": "58.7 m²",
-      "url": "https://www.inli.fr/location-appartement-trappes-78190/PRV-347873"
     },
     "PRV-386849": {
       "city": "Chatou",
@@ -759,13 +724,6 @@
       "surface": "70 m²",
       "url": "https://www.inli.fr/location-appartement-aulnay-sous-bois-93600/PRV-061496"
     },
-    "PRV-061520": {
-      "city": "Aulnay Sous Bois",
-      "price": "977 €",
-      "rooms": "3 pièces",
-      "surface": "58 m²",
-      "url": "https://www.inli.fr/location-appartement-aulnay-sous-bois-93600/PRV-061520"
-    },
     "PRV-061523": {
       "city": "Aulnay Sous Bois",
       "price": "1 031 €",
@@ -912,13 +870,6 @@
       "rooms": "2 pièces",
       "surface": "45.8 m²",
       "url": "https://www.inli.fr/location-appartement-villepinte-93420/PRV-345516"
-    },
-    "PRV-347140": {
-      "city": "Gagny",
-      "price": "927 €",
-      "rooms": "2 pièces",
-      "surface": "48.4 m²",
-      "url": "https://www.inli.fr/location-appartement-gagny-93220/PRV-347140"
     },
     "PRV-355620": {
       "city": "Les Pavillons Sous Bois",
@@ -1658,13 +1609,6 @@
       "rooms": "3 pièces",
       "surface": "65 m²",
       "url": "https://www.inli.fr/location-appartement-pontoise-95300/PRV-277813"
-    },
-    "PRV-317933": {
-      "city": "Herblay Sur Seine",
-      "price": "1 159 €",
-      "rooms": "3 pièces",
-      "surface": "62.15 m²",
-      "url": "https://www.inli.fr/location-appartement-herblay-sur-seine-95220/PRV-317933"
     },
     "PRV-345605": {
       "city": "Bezons",
