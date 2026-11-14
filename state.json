@@ -251,13 +251,6 @@
       "surface": "31.09 m²",
       "url": "https://www.inli.fr/location-appartement-chilly-mazarin-91380/PRV-347197"
     },
-    "PRV-354302": {
-      "city": "Ris Orangis",
-      "price": "719 €",
-      "rooms": "2 pièces",
-      "surface": "45.75 m²",
-      "url": "https://www.inli.fr/location-appartement-ris-orangis-91130/PRV-354302"
-    },
     "x3F-4078-0511L": {
       "city": "Etampes",
       "price": "1 051 €",
@@ -766,6 +759,13 @@
       "surface": "84.7 m²",
       "url": "https://www.inli.fr/location-appartement-neuilly-sur-marne-93330/441-20018-4003"
     },
+    "PRV-061365": {
+      "city": "Aulnay Sous Bois",
+      "price": "977 €",
+      "rooms": "3 pièces",
+      "surface": "58 m²",
+      "url": "https://www.inli.fr/location-appartement-aulnay-sous-bois-93600/PRV-061365"
+    },
     "PRV-061594": {
       "city": "Aulnay Sous Bois",
       "price": "1 040 €",
@@ -807,13 +807,6 @@
       "rooms": "4 pièces",
       "surface": "78.56 m²",
       "url": "https://www.inli.fr/location-appartement-st-denis-93200/PRV-332020"
-    },
-    "PRV-337489": {
-      "city": "Villepinte",
-      "price": "531 €",
-      "rooms": "Studio",
-      "surface": "31.72 m²",
-      "url": "https://www.inli.fr/location-appartement-villepinte-93420/PRV-337489"
     },
     "PRV-342017": {
       "city": "Bagnolet",
@@ -912,13 +905,6 @@
       "rooms": "Studio",
       "surface": "26.92 m²",
       "url": "https://www.inli.fr/location-appartement-gagny-93220/PRV-385917"
-    },
-    "PRV-385923": {
-      "city": "Gagny",
-      "price": "668 €",
-      "rooms": "Studio",
-      "surface": "26.86 m²",
-      "url": "https://www.inli.fr/location-appartement-gagny-93220/PRV-385923"
     },
     "PRV-385926": {
       "city": "Gagny",
@@ -1032,13 +1018,6 @@
       "surface": "60.48 m²",
       "url": "https://www.inli.fr/location-appartement-aulnay-sous-bois-93600/x3F-4074-1502L"
     },
-    "x3F-4074-1513L": {
-      "city": "Aulnay Sous Bois",
-      "price": "851 €",
-      "rooms": "2 pièces",
-      "surface": "42.36 m²",
-      "url": "https://www.inli.fr/location-appartement-aulnay-sous-bois-93600/x3F-4074-1513L"
-    },
     "x3F-4074-1521L": {
       "city": "Aulnay Sous Bois",
       "price": "1 107 €",
@@ -1094,13 +1073,6 @@
       "rooms": "3 pièces",
       "surface": "65.5 m²",
       "url": "https://www.inli.fr/location-appartement-gagny-93220/x3F-G899-1123L"
-    },
-    "x3F-G899-1132L": {
-      "city": "Gagny",
-      "price": "847 €",
-      "rooms": "2 pièces",
-      "surface": "46.5 m²",
-      "url": "https://www.inli.fr/location-appartement-gagny-93220/x3F-G899-1132L"
     }
   },
   "94": {
@@ -1601,13 +1573,6 @@
       "surface": "79.4 m²",
       "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/PRV-340871"
     },
-    "PRV-346802": {
-      "city": "Champigny Sur Marne",
-      "price": "631 €",
-      "rooms": "2 pièces",
-      "surface": "37.2 m²",
-      "url": "https://www.inli.fr/location-appartement-champigny-sur-marne-94500/PRV-346802"
-    },
     "PRV-350533": {
       "city": "Alfortville",
       "price": "1 432 €",
@@ -1628,13 +1593,6 @@
       "rooms": "3 pièces",
       "surface": "67.88 m²",
       "url": "https://www.inli.fr/location-appartement-chennevieres-sur-marne-94430/PRV-358177"
-    },
-    "PRV-383279": {
-      "city": "Nogent Sur Marne",
-      "price": "2 250 €",
-      "rooms": "5 pièces",
-      "surface": "109.5 m²",
-      "url": "https://www.inli.fr/location-appartement-nogent-sur-marne-94130/PRV-383279"
     },
     "PRV-387565": {
       "city": "Ivry Sur Seine",
